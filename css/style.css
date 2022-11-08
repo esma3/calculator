@@ -26,8 +26,8 @@ body{
    } 
    
    .dark.calculator{
-    background:#3339e
-    box-shadow:15px 15px 20px rgba(0,0,0,0.1), -15px -15px 20px #fffb;
+    background:#3339e;
+    box-shadow:15px 15px 20px rgba(0,0,0,0.1), -15px -15px 20px #fffb
 
    }
    .calculator  .buttons{
